@@ -78,5 +78,5 @@ $ gistup -m "lab${LAB_NUMBER}"
 - [Tmux](https://tmux.github.io)
 
 ```
-Copyright (c) 2017 Братья Вершинины
+Copyright (c) 2018 Михайлов Алексей
 ```
